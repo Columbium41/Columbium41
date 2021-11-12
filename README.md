@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Charley, but you can refer to me as @Columbium41
+- 👋 Hi, my name is Charley
 - 👀 I’m interested in Computer Science, Engineering, and Mathematical Applications
-- 🌱 I’m currently learning how to code (with Java and Python)
-- 💞️ I’m looking to collaborate on any simple Java/Python projects
+- 🌱 I’m currently learning how to program with Java, Python, and Javascript
+- 💞️ I’m open to collaborate on any simple projects
 - 📫 Contact: charleyliu716@gmail.com
